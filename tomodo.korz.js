@@ -10,7 +10,7 @@
 if(typeof korz == 'undefined'){
 
     var korz = {
-       router:"[korz server address]"
+       router: "https://www.pw.live/study/batches"
     };
     korz.config = function(options){
         for(var opt in options){
